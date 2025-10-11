@@ -23,16 +23,6 @@ It leverages a **deep learning model (EfficientNet-B0)** trained on retinal data
 
 ---
 
-## 🧪 Demo Screenshots
-
-### 🔹 Normal Retina Image
-<img src="https://github.com/Praveen-s-18/FinalRetino_Models/blob/main/docs/normal.png" alt="Normal Retina" width="400"/>
-
-### 🔸 Retinoblastoma Detected
-<img src="https://github.com/Praveen-s-18/FinalRetino_Models/blob/main/docs/retinoblastoma.png" alt="Retinoblastoma Detected" width="400"/>
-
----
-
 ## 📊 Results
 
 | Input Image | Model Prediction |
